@@ -12,6 +12,6 @@
 |     Subject      |                             Link                             |
 | :--------------: | :----------------------------------------------------------: |
 | Operation System | [📋 Link](https://github.com/HyeonJuSon/SSAFY_CS_STUDY/blob/main/01.OperatingSystem/README.md) |
-|     Network      |                                                              |
-|        +         | [📋 Link](https://github.com/HyeonJuSon/SSAFY_CS_STUDY/blob/main/02.Network/README.md) |
+|     Network      | [📋 Link](https://github.com/HyeonJuSon/SSAFY_CS_STUDY/blob/main/02.Network/README.md) |
+|        +         |                                                              |
 
