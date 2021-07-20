@@ -29,7 +29,7 @@
 
 |  Date  |            Kim             |            Bae             |            Son             |            Song            |
 | :----: | :------------------------: | :------------------------: | :------------------------: | :------------------------: |
-| 210720 | **:**white_check_mark**:** | **:**white_check_mark**:** | **:**white_check_mark**:** | **:**white_check_mark**:** |
+| 210720 | :white_check_mark: |:white_check_mark: |:white_check_mark: | :white_check_mark: |
 |        |                            |                            |                            |                            |
 |        |                            |                            |                            |                            |
 
