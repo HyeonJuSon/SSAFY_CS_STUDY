@@ -3,9 +3,12 @@
 # 🎤 About Us
 
 - SSAFY 5th CS STUDY 
+
 - CS 지식을 쌓기 위한 스터디입니다.
 
+    <img src="https://contrib.rocks/image?repo=HyeonJuSon/SSAFY_CS_STUDY">
 
+  
 
 # ✍️ List 
 
